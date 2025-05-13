@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\controllers\\featuredproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\controllers\\featuredproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\models\\featuredproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\models\\featuredproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\migrations\\20250513123431_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\migrations\\20250513123431_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|c:\\users\\ca r221.14\\source\\repos\\fashionmvcproject\\fashionmvcproject\\fashionmvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8A1C08F-E555-489C-AF27-0C575EE73CCC}|FashionMVCProject\\FashionMVCProject.csproj|solutionrelative:fashionmvcproject\\fashionmvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FashionMVCProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:01:01.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FashionMVCProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T11:47:54.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FashionMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:03:46.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeaturedProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Controllers\\FeaturedProductsController.cs",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Controllers\\FeaturedProductsController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Controllers\\FeaturedProductsController.cs",
+              "RelativeToolTip": "FashionMVCProject\\Controllers\\FeaturedProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:08:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FashionMVCProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:37:28.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FashionMVCProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:37:49.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Program.cs",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Program.cs",
+              "RelativeToolTip": "FashionMVCProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:43:18.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FashionMVCProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:46:57.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FashionMVCProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:37:04.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FashionMVCProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:36:49.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Models\\BaseModel.cs",
+              "RelativeToolTip": "FashionMVCProject\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:48:12.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FeaturedProducts.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Models\\FeaturedProducts.cs",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Models\\FeaturedProducts.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Models\\FeaturedProducts.cs",
+              "RelativeToolTip": "FashionMVCProject\\Models\\FeaturedProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:49:16.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250513123431_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Migrations\\20250513123431_initial.cs",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Migrations\\20250513123431_initial.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Migrations\\20250513123431_initial.cs",
+              "RelativeToolTip": "FashionMVCProject\\Migrations\\20250513123431_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:34:31.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FashionMVCProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:34:45.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FashionMVCProject\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "FashionMVCProject\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:21:39.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FashionMVCProject\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FashionMVCProject\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-13T12:07:40.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FashionMVCProject",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\FashionMVCProject.csproj",
+              "RelativeDocumentMoniker": "FashionMVCProject\\FashionMVCProject.csproj",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\FashionMVCProject.csproj",
+              "RelativeToolTip": "FashionMVCProject\\FashionMVCProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T11:46:06.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
