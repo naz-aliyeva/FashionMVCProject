@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vkoq/OSV25GBFLAvaxrqp7nYxUW9YVPPRFMrSSedr04=",
+  "Hash": "Jf+y6wNRB11EjV0tfWmKYe6oZQAJXPv65dXUDThkfd4=",
   "Source": "FashionMVCProject",
   "BasePath": "_content/FashionMVCProject",
   "Mode": "Default",
@@ -10,752 +10,4030 @@
     {
       "Name": "FashionMVCProject\\wwwroot",
       "Source": "FashionMVCProject",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\css\\styles.css",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\css\\styles.css",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "admin/assets/css/styles.css",
+      "RelativePath": "admin/assets/css/styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "xmmtcbucbs",
+      "Integrity": "2Y8HG0M4iF0TUVw5NWtrtzckfN6mbO/OC+jUaltpwc4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\assets\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "admin/assets/demo/chart-area-demo.js",
+      "RelativePath": "admin/assets/demo/chart-area-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "g1bcqwktbt",
+      "Integrity": "HOPeQ33CTWDISpGLIVfuC4xPiQCk0EUEHwO7IzODjp8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "admin/assets/demo/chart-bar-demo.js",
+      "RelativePath": "admin/assets/demo/chart-bar-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "brjq0h443p",
+      "Integrity": "efVryvrAjYmniLkLrbG/nLbLad3QJdROpioyLqYGUCM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "admin/assets/demo/chart-pie-demo.js",
+      "RelativePath": "admin/assets/demo/chart-pie-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "bjnbpt8phk",
+      "Integrity": "GadUzcosBCCvAKbhEtLtfMcjwO0iKQDhgsD1MjKRDeI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "admin/assets/demo/datatables-demo.js",
+      "RelativePath": "admin/assets/demo/datatables-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "s2ygsab6ne",
+      "Integrity": "fLtBi6irYqHhTELUccxbgafCi+8gsCGq70Q5aL1/CHE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "admin/assets/img/error-404-monochrome.svg",
+      "RelativePath": "admin/assets/img/error-404-monochrome#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "yp87i3fbss",
+      "Integrity": "GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\js\\datatables-simple-demo.js",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\js\\datatables-simple-demo.js",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "admin/assets/js/datatables-simple-demo.js",
+      "RelativePath": "admin/assets/js/datatables-simple-demo#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "mrcm95qwwq",
+      "Integrity": "3phc6m3mmzmZBhiJqrAufOd7OAjOJScoJBr+8TGcXsE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\datatables-simple-demo.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\js\\scripts.js",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\js\\scripts.js",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "admin/assets/js/scripts.js",
+      "RelativePath": "admin/assets/js/scripts#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "1og25pym0p",
+      "Integrity": "4YkZXKpufl0NmzmWG9dr0QHm2bwGZuhZVN9IIQpRBP4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\assets\\js\\scripts.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/css/bootstrap.min.css",
+      "RelativePath": "assets/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "090os12xz7",
+      "Integrity": "RLc8gd//Me8kVue6wwdJ8gOFeLCHqoOupGIyjdD7Fqc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\bootstrap-icons.css",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/css/bootstrap-icons.css",
+      "RelativePath": "assets/css/bootstrap-icons#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "jl6fcei9th",
+      "Integrity": "J7NTSJD2dmAvFPn/ntBG36xg2s1wf/bQ7tfWC8h/YWM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap-icons.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\slick.css",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\slick.css",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/css/slick.css",
+      "RelativePath": "assets/css/slick#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "krratgaar5",
+      "Integrity": "8LcixIxSCCzXcmFXTiKlJR/jfqSykbFEETQUW6ubIGM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\slick.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/css/tooplate-little-fashion.css",
+      "RelativePath": "assets/css/tooplate-little-fashion#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "w3j4uy9itl",
+      "Integrity": "vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\tooplate-little-fashion.css"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/fonts/bootstrap-icons.woff",
+      "RelativePath": "assets/fonts/bootstrap-icons#[.{fingerprint}]?.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "1b328vrd37",
+      "Integrity": "w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/fonts/bootstrap-icons.woff2",
+      "RelativePath": "assets/fonts/bootstrap-icons#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "umcyo9ouu3",
+      "Integrity": "dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "RelativePath": "assets/images/cody-lannom-G95AReIh_Ko-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "mo64r4vnjs",
+      "Integrity": "KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/header/businesspeople-meeting-office-working.jpg",
+      "RelativePath": "assets/images/header/businesspeople-meeting-office-working#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "59pkx20wny",
+      "Integrity": "JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/header/positive-european-woman-has-break-after-work.jpg",
+      "RelativePath": "assets/images/header/positive-european-woman-has-break-after-work#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "fn2v2ltpa8",
+      "Integrity": "K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/people/beautiful-woman-face-portrait-brown-background.jpeg",
+      "RelativePath": "assets/images/people/beautiful-woman-face-portrait-brown-background#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "iwws3rqi65",
+      "Integrity": "kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/people/portrait-british-woman.jpeg",
+      "RelativePath": "assets/images/people/portrait-british-woman#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "kbvqktsxv4",
+      "Integrity": "8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "RelativePath": "assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "6hxkccjbx4",
+      "Integrity": "hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "RelativePath": "assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "7ureq322xt",
+      "Integrity": "kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "RelativePath": "assets/images/pim-chu-z6NZ76_UTDI-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "wmr8kwesfk",
+      "Integrity": "6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/product/anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "RelativePath": "assets/images/product/anis-m-WnVrO-DvxcE-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "2z9mt0g2iu",
+      "Integrity": "Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "RelativePath": "assets/images/product/evan-mcdougall-qnh1odlqOmk-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "eafjoa8xld",
+      "Integrity": "JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "RelativePath": "assets/images/product/jordan-nix-CkCUvwMXAac-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "j2jebdw1ir",
+      "Integrity": "C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "RelativePath": "assets/images/product/nature-zen-3Dn1BZZv3m8-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "idoj3e44yn",
+      "Integrity": "Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/product/quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "RelativePath": "assets/images/product/quokkabottles-kFc1_G1GvKA-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "v7dd1u6y32",
+      "Integrity": "1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/product/team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "RelativePath": "assets/images/product/team-fredi-8HRKoay8VJE-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "b2nz5by9xm",
+      "Integrity": "g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "RelativePath": "assets/images/retail-shop-owner-mask-social-distancing-shopping#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "monvjre8is",
+      "Integrity": "pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "RelativePath": "assets/images/servicescape-incorporated-_48JSlVLX6g-unsplash#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "l21469tfj8",
+      "Integrity": "kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/slideshow/medium-shot-business-women-high-five.jpeg",
+      "RelativePath": "assets/images/slideshow/medium-shot-business-women-high-five#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "m1n757ci60",
+      "Integrity": "alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/slideshow/team-meeting-renewable-energy-project.jpeg",
+      "RelativePath": "assets/images/slideshow/team-meeting-renewable-energy-project#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "eq0r2qcb6z",
+      "Integrity": "ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/images/slideshow/two-business-partners-working-together-office-computer.jpeg",
+      "RelativePath": "assets/images/slideshow/two-business-partners-working-together-office-computer#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "7c1pd3isr1",
+      "Integrity": "Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/js/bootstrap.bundle.min.js",
+      "RelativePath": "assets/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "org8v90f9u",
+      "Integrity": "HPaolZ/T6mPzp9eJEn31m+IwSJAY2p8DdIRFQl36iWk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/js/custom.js",
+      "RelativePath": "assets/js/custom#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "yxm2t7k8yb",
+      "Integrity": "ptlwAOnePGARCUAOZh1QatGFKtSt7EU7eE0bzN5Gz30=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\Headroom.js",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\Headroom.js",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/js/Headroom.js",
+      "RelativePath": "assets/js/Headroom#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "r8djlruffa",
+      "Integrity": "y+qndLpNixYpuMjgeeYvNi3JlwTqkzgfXUaTUilKQ/A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\Headroom.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\jQuery.headroom.js",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\jQuery.headroom.js",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/js/jQuery.headroom.js",
+      "RelativePath": "assets/js/jQuery.headroom#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ukbu916ex9",
+      "Integrity": "HsOtM40aC1RXwjjBrxR1qag9r5HCsHNKFD/TNEvtIdU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\jQuery.headroom.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\jquery.min.js",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/js/jquery.min.js",
+      "RelativePath": "assets/js/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "yae487z44e",
+      "Integrity": "lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\slick.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\slick.min.js",
       "SourceId": "FashionMVCProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca r221.14\\source\\repos\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\",
       "BasePath": "_content/FashionMVCProject",
-      "RelativePath": "assets/js/slick.min.js",
+      "RelativePath": "assets/js/slick.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "nigmt84j8l",
+      "Integrity": "4aUsCgb6n2XgFbAufsRj/WISEanSrkS2ZgWXkA6Sf7s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\slick.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "admin/assets/css/styles.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "261468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Y8HG0M4iF0TUVw5NWtrtzckfN6mbO/OC+jUaltpwc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Y8HG0M4iF0TUVw5NWtrtzckfN6mbO/OC+jUaltpwc4="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/css/styles.xmmtcbucbs.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "261468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Y8HG0M4iF0TUVw5NWtrtzckfN6mbO/OC+jUaltpwc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xmmtcbucbs"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/assets/css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Y8HG0M4iF0TUVw5NWtrtzckfN6mbO/OC+jUaltpwc4="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/demo/chart-area-demo.g1bcqwktbt.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HOPeQ33CTWDISpGLIVfuC4xPiQCk0EUEHwO7IzODjp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1bcqwktbt"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/assets/demo/chart-area-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HOPeQ33CTWDISpGLIVfuC4xPiQCk0EUEHwO7IzODjp8="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/demo/chart-area-demo.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HOPeQ33CTWDISpGLIVfuC4xPiQCk0EUEHwO7IzODjp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HOPeQ33CTWDISpGLIVfuC4xPiQCk0EUEHwO7IzODjp8="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/demo/chart-bar-demo.brjq0h443p.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"efVryvrAjYmniLkLrbG/nLbLad3QJdROpioyLqYGUCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "brjq0h443p"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/assets/demo/chart-bar-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-efVryvrAjYmniLkLrbG/nLbLad3QJdROpioyLqYGUCM="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/demo/chart-bar-demo.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"efVryvrAjYmniLkLrbG/nLbLad3QJdROpioyLqYGUCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-efVryvrAjYmniLkLrbG/nLbLad3QJdROpioyLqYGUCM="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/demo/chart-pie-demo.bjnbpt8phk.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GadUzcosBCCvAKbhEtLtfMcjwO0iKQDhgsD1MjKRDeI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bjnbpt8phk"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/assets/demo/chart-pie-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GadUzcosBCCvAKbhEtLtfMcjwO0iKQDhgsD1MjKRDeI="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/demo/chart-pie-demo.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GadUzcosBCCvAKbhEtLtfMcjwO0iKQDhgsD1MjKRDeI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GadUzcosBCCvAKbhEtLtfMcjwO0iKQDhgsD1MjKRDeI="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/demo/datatables-demo.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fLtBi6irYqHhTELUccxbgafCi+8gsCGq70Q5aL1/CHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fLtBi6irYqHhTELUccxbgafCi+8gsCGq70Q5aL1/CHE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/demo/datatables-demo.s2ygsab6ne.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fLtBi6irYqHhTELUccxbgafCi+8gsCGq70Q5aL1/CHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s2ygsab6ne"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/assets/demo/datatables-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fLtBi6irYqHhTELUccxbgafCi+8gsCGq70Q5aL1/CHE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/img/error-404-monochrome.svg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/img/error-404-monochrome.yp87i3fbss.svg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yp87i3fbss"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/assets/img/error-404-monochrome.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GuryUo0+xyzRuEVttjuLmS8hqxoE9FucfaX/mboMWj8="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/js/datatables-simple-demo.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\js\\datatables-simple-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3phc6m3mmzmZBhiJqrAufOd7OAjOJScoJBr+8TGcXsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3phc6m3mmzmZBhiJqrAufOd7OAjOJScoJBr+8TGcXsE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/js/datatables-simple-demo.mrcm95qwwq.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\js\\datatables-simple-demo.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3phc6m3mmzmZBhiJqrAufOd7OAjOJScoJBr+8TGcXsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mrcm95qwwq"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/assets/js/datatables-simple-demo.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3phc6m3mmzmZBhiJqrAufOd7OAjOJScoJBr+8TGcXsE="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/js/scripts.1og25pym0p.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4YkZXKpufl0NmzmWG9dr0QHm2bwGZuhZVN9IIQpRBP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1og25pym0p"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/assets/js/scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4YkZXKpufl0NmzmWG9dr0QHm2bwGZuhZVN9IIQpRBP4="
+        }
+      ]
+    },
+    {
+      "Route": "admin/assets/js/scripts.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\admin\\assets\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4YkZXKpufl0NmzmWG9dr0QHm2bwGZuhZVN9IIQpRBP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4YkZXKpufl0NmzmWG9dr0QHm2bwGZuhZVN9IIQpRBP4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap.min.090os12xz7.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RLc8gd//Me8kVue6wwdJ8gOFeLCHqoOupGIyjdD7Fqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "090os12xz7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RLc8gd//Me8kVue6wwdJ8gOFeLCHqoOupGIyjdD7Fqc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RLc8gd//Me8kVue6wwdJ8gOFeLCHqoOupGIyjdD7Fqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RLc8gd//Me8kVue6wwdJ8gOFeLCHqoOupGIyjdD7Fqc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap-icons.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J7NTSJD2dmAvFPn/ntBG36xg2s1wf/bQ7tfWC8h/YWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J7NTSJD2dmAvFPn/ntBG36xg2s1wf/bQ7tfWC8h/YWM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/bootstrap-icons.jl6fcei9th.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J7NTSJD2dmAvFPn/ntBG36xg2s1wf/bQ7tfWC8h/YWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jl6fcei9th"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/bootstrap-icons.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J7NTSJD2dmAvFPn/ntBG36xg2s1wf/bQ7tfWC8h/YWM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/slick.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\slick.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8LcixIxSCCzXcmFXTiKlJR/jfqSykbFEETQUW6ubIGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8LcixIxSCCzXcmFXTiKlJR/jfqSykbFEETQUW6ubIGM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/slick.krratgaar5.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\slick.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8LcixIxSCCzXcmFXTiKlJR/jfqSykbFEETQUW6ubIGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "krratgaar5"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/slick.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8LcixIxSCCzXcmFXTiKlJR/jfqSykbFEETQUW6ubIGM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/tooplate-little-fashion.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/tooplate-little-fashion.w3j4uy9itl.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\css\\tooplate-little-fashion.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w3j4uy9itl"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/tooplate-little-fashion.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vO/WiWzlwXB81FbEKQaWr7y4ig/uVsNWdNgoPHUpotM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/bootstrap-icons.1b328vrd37.woff",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1b328vrd37"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/bootstrap-icons.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/bootstrap-icons.umcyo9ouu3.woff2",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "umcyo9ouu3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/fonts/bootstrap-icons.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/bootstrap-icons.woff",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w65Ia96N0QPyBYAPKofBeMuIOIM9IWo85wdBwHzfYjM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/fonts/bootstrap-icons.woff2",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dlBuEo8rR7cXn1A3vYhaFnRFX/62tQk820x+779DbOg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/cody-lannom-G95AReIh_Ko-unsplash.mo64r4vnjs.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mo64r4vnjs"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/cody-lannom-G95AReIh_Ko-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/header/businesspeople-meeting-office-working.59pkx20wny.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59pkx20wny"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/header/businesspeople-meeting-office-working.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/header/businesspeople-meeting-office-working.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JzpXpsbH7anucQT9FpI5l+aDizQjOhV9eSOTxJP0mAE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/header/positive-european-woman-has-break-after-work.fn2v2ltpa8.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fn2v2ltpa8"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/header/positive-european-woman-has-break-after-work.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/header/positive-european-woman-has-break-after-work.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K+VL9cfurJcuat9uVThWu+Mwi2NdxuICUp3UGp4yi+k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/beautiful-woman-face-portrait-brown-background.iwws3rqi65.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iwws3rqi65"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/people/beautiful-woman-face-portrait-brown-background.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/beautiful-woman-face-portrait-brown-background.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kuRCEXKDHBkQsPX0OER+mIPhqeKsiTgiZgzfKMITiPA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/portrait-british-woman.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/portrait-british-woman.kbvqktsxv4.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\portrait-british-woman.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbvqktsxv4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/people/portrait-british-woman.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8LaseO8F9IKPwSFZMlA2xjbxxn16OxP4IeXHnVVUc+c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.6hxkccjbx4.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6hxkccjbx4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hu2hlJH6Vz3mrCJiPw58RDIidnrGayDpd/d9KKPNu50="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background.7ureq322xt.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ureq322xt"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZVLwspASLzGwVM83vuzSh0NopyaY4MM4LK4M+HVMgg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/pim-chu-z6NZ76_UTDI-unsplash.wmr8kwesfk.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wmr8kwesfk"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/pim-chu-z6NZ76_UTDI-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/anis-m-WnVrO-DvxcE-unsplash.2z9mt0g2iu.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2z9mt0g2iu"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/product/anis-m-WnVrO-DvxcE-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Amex7gew8Pf/qN5eMNgV2M/wGMKClllg7+vvEi0zj64="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/evan-mcdougall-qnh1odlqOmk-unsplash.eafjoa8xld.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eafjoa8xld"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhT3n3Uu9UR84oxN7HV5JKGvHe1dwB21iyA4slZMOG8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/jordan-nix-CkCUvwMXAac-unsplash.j2jebdw1ir.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j2jebdw1ir"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C9esmdnZGE1YxaZWiIv9akBQSqIEDSEuELD1QuakobI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/nature-zen-3Dn1BZZv3m8-unsplash.idoj3e44yn.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "idoj3e44yn"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jh2jwkBZ8QJH2gLHeTZo36e0JYsIqyjDf+3h3SWOhuE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/quokkabottles-kFc1_G1GvKA-unsplash.v7dd1u6y32.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7dd1u6y32"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/product/quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1cKjBZsJiOnvkZOMjsRo2vHzSzptDtL8tJRBqnXOWwY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/team-fredi-8HRKoay8VJE-unsplash.b2nz5by9xm.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b2nz5by9xm"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/product/team-fredi-8HRKoay8VJE-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/product/team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g/D3NsZ46TIQfiUEMCj4f8JcmG9HtfGfkro1rQYrWvY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/retail-shop-owner-mask-social-distancing-shopping.monvjre8is.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "monvjre8is"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/retail-shop-owner-mask-social-distancing-shopping.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/servicescape-incorporated-_48JSlVLX6g-unsplash.l21469tfj8.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l21469tfj8"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slideshow/medium-shot-business-women-high-five.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slideshow/medium-shot-business-women-high-five.m1n757ci60.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m1n757ci60"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/slideshow/medium-shot-business-women-high-five.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-alFb2p2UYSpUVjUr94bIpdQYckyERshYbCNRNddkeHs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slideshow/team-meeting-renewable-energy-project.eq0r2qcb6z.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eq0r2qcb6z"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/slideshow/team-meeting-renewable-energy-project.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slideshow/team-meeting-renewable-energy-project.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ilmRfWeufivZAB3ZsxVvoJSCK6gFtL+V31+K68cA+Qw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slideshow/two-business-partners-working-together-office-computer.7c1pd3isr1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7c1pd3isr1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/slideshow/two-business-partners-working-together-office-computer.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/slideshow/two-business-partners-working-together-office-computer.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bwws/iZ5Ij8reM7mkjbIZojiL2eajYYue3DIRxkxmEQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HPaolZ/T6mPzp9eJEn31m+IwSJAY2p8DdIRFQl36iWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HPaolZ/T6mPzp9eJEn31m+IwSJAY2p8DdIRFQl36iWk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/bootstrap.bundle.min.org8v90f9u.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HPaolZ/T6mPzp9eJEn31m+IwSJAY2p8DdIRFQl36iWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "org8v90f9u"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HPaolZ/T6mPzp9eJEn31m+IwSJAY2p8DdIRFQl36iWk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/custom.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ptlwAOnePGARCUAOZh1QatGFKtSt7EU7eE0bzN5Gz30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ptlwAOnePGARCUAOZh1QatGFKtSt7EU7eE0bzN5Gz30="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/custom.yxm2t7k8yb.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ptlwAOnePGARCUAOZh1QatGFKtSt7EU7eE0bzN5Gz30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yxm2t7k8yb"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ptlwAOnePGARCUAOZh1QatGFKtSt7EU7eE0bzN5Gz30="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/Headroom.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\Headroom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y+qndLpNixYpuMjgeeYvNi3JlwTqkzgfXUaTUilKQ/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y+qndLpNixYpuMjgeeYvNi3JlwTqkzgfXUaTUilKQ/A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/Headroom.r8djlruffa.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\Headroom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y+qndLpNixYpuMjgeeYvNi3JlwTqkzgfXUaTUilKQ/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r8djlruffa"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/Headroom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y+qndLpNixYpuMjgeeYvNi3JlwTqkzgfXUaTUilKQ/A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jQuery.headroom.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\jQuery.headroom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HsOtM40aC1RXwjjBrxR1qag9r5HCsHNKFD/TNEvtIdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HsOtM40aC1RXwjjBrxR1qag9r5HCsHNKFD/TNEvtIdU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jQuery.headroom.ukbu916ex9.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\jQuery.headroom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HsOtM40aC1RXwjjBrxR1qag9r5HCsHNKFD/TNEvtIdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ukbu916ex9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/jQuery.headroom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HsOtM40aC1RXwjjBrxR1qag9r5HCsHNKFD/TNEvtIdU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/jquery.min.yae487z44e.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yae487z44e"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lipRTeeySXCOBHjQWZ1a+V4OK6DGUAvQBp3fKN044hc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/slick.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\slick.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4aUsCgb6n2XgFbAufsRj/WISEanSrkS2ZgWXkA6Sf7s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4aUsCgb6n2XgFbAufsRj/WISEanSrkS2ZgWXkA6Sf7s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/slick.min.nigmt84j8l.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\FashionMVCProject\\FashionMVCProject\\wwwroot\\assets\\js\\slick.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4aUsCgb6n2XgFbAufsRj/WISEanSrkS2ZgWXkA6Sf7s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 02:37:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nigmt84j8l"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/slick.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4aUsCgb6n2XgFbAufsRj/WISEanSrkS2ZgWXkA6Sf7s="
+        }
+      ]
     }
   ]
 }

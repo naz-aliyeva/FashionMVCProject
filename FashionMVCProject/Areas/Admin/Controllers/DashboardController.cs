@@ -7,10 +7,10 @@ namespace FashionMVCProject.Areas.Admin.Controllers;
 public class DashboardController : Controller
 
 {
-    private readonly AppDbContext _context;
+    private readonly FeaturedProductService _context;
     public DashboardController()
     {
-        _context = new AppDbContext();
+        _context = new FeaturedProductService();
 
     }
     public IActionResult Index()

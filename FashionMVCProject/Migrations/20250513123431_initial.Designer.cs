@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace FashionMVCProject.Migrations
 {
-    [DbContext(typeof(AppDbContext))]
+    [DbContext(typeof(FeaturedProductService))]
     [Migration("20250513123431_initial")]
     partial class initial
     {

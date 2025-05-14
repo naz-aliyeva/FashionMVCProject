@@ -8,11 +8,11 @@ namespace FashionMVCProject.Controllers
     public class FeaturedProductsController : Controller
     {
 
-        private readonly AppDbContext _context;
+        private readonly FeaturedProductService _context;
 
         public FeaturedProductsController()
         {
-            _context = new AppDbContext();
+            _context = new FeaturedProductService();
         }
 
         [HttpGet]
